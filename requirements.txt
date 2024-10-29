@@ -15,4 +15,4 @@ pyyaml==3.13
 trafaret-config==2.0.2
 trafaret==1.2.0
 yarl==1.3.0               # via aiohttp
-Twisted==21.2.0
+Twisted==22.10.0rc1
